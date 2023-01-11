@@ -16,15 +16,15 @@
     height: 1.5rem;
     color: white;
     background-color: rgb(41, 41, 41);
-    padding: 5px;
+    padding: 10px 5px;
     margin: 1rem;
-    align-items: center;
+   text-align: center;
 }
 .date{
     display: inline-block;
     width: 7rem;
     height: 4rem;
-    background-color: rgb(223, 223, 223);
+    background-color:  #E8E8E8;
     padding: 5px;
     margin: 1rem;
  
@@ -35,4 +35,8 @@
     position: relative;
     left: 2.5em;
   
+}
+.holiday{
+    background-color: #FCEBE3;
+    color: #F02E39;
 }
