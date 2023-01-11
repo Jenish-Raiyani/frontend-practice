@@ -1,0 +1,38 @@
+.container{
+
+    width: 60%;
+    height: 100%;
+    border: 1px solid black;
+    margin: 5rem;
+}
+.header h1{ 
+    display: inline-block;
+}
+ 
+
+.days-name{
+    display: inline-block; 
+    width: 7rem;
+    height: 1.5rem;
+    color: white;
+    background-color: rgb(41, 41, 41);
+    padding: 5px;
+    margin: 1rem;
+    align-items: center;
+}
+.date{
+    display: inline-block;
+    width: 7rem;
+    height: 4rem;
+    background-color: rgb(223, 223, 223);
+    padding: 5px;
+    margin: 1rem;
+ 
+}
+.date p{
+    font-size: 2rem;
+    font-weight: 900; 
+    position: relative;
+    left: 2.5em;
+  
+}
